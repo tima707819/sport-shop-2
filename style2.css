@@ -1,0 +1,23 @@
+body{
+    background-color: darkviolet;
+}
+h1{
+    color: rgb(5, 24, 109);
+    text-align: center;
+    margin: 90px;
+}
+.inf{
+    color: rgb(72, 4, 89);
+    text-align: center;
+    font-size: 23px;
+    margin-bottom:50px ;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.sos{
+    text-decoration:none;
+color: black;
+}
+
